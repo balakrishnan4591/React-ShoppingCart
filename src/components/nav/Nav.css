@@ -1,0 +1,21 @@
+#nav-bar {
+  background-color: black !important;
+}
+
+.navbar-brand {
+  font-family: cursive;
+}
+
+.navbar-brand,
+.nav-link {
+  color: white !important;
+}
+
+.btn {
+  border: 1px solid white;
+  color: white;
+}
+
+.navbar-toggler {
+  background-color: white;
+}
